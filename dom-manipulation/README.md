@@ -16,6 +16,6 @@ Create a simple webpage with the following elements:
  - What's the smallest amount of lines you can write your script in?
  - What if you only have one button on the page, can you get it to do the job of the previous three?
 
- ##Resources
- - https://api.jquery.com/
- - https://developer.mozilla.org/en-US/docs/Web/API/document
+##Resources
+- https://api.jquery.com/
+- https://developer.mozilla.org/en-US/docs/Web/API/document
