@@ -15,5 +15,5 @@ number=5 |Fizz     |
 number=3 |Buzz     |
 number=7 |7        |
 
-##Resources
+## Resources
  - https://en.wikipedia.org/wiki/Query_string
