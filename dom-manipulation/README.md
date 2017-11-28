@@ -17,10 +17,10 @@ Create a simple webpage with the following elements:
      - [ ] about
      - [ ] contact
 
- - [ ] The first div should have a centered heading that says 'Welcome to the DOM'
- - [ ] The second div section should have a button that makes the background blue
- - [ ] The third div section should have a button that makes the background red
- - [ ] The fourth section should have a button that makes the background white
+ - [ ] The second div should have a centered heading that says 'Welcome to the DOM'
+ - [ ] The third div section should have a button that makes the background blue
+ - [ ] The fourth div section should have a button that makes the background red
+ - [ ] The fifth section should have a button that makes the background white
 
 ## Refactor
  - What's the smallest amount of lines you can write your script in?
